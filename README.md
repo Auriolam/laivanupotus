@@ -1,0 +1,2 @@
+# laivanupotus
+Harjoitustyö pythonin opetteluun
